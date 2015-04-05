@@ -1,0 +1,122 @@
+accountant
+actor
+alchoholic
+air steward
+animator
+architect
+assistant
+assassand
+author
+baker
+biologist
+blind person
+builder
+butcher
+career counselor
+caretaker
+celebrity
+chef
+civil servant
+clerk
+comic book writer
+company director
+computer programmer
+cook
+dad
+dancer
+decorator
+dentist
+designer
+dictator
+diplomat
+director
+driver
+doctor
+economist
+editor
+electrician
+engineer
+executive
+farmer
+film director
+fisherman
+fishmonger
+flight attendant
+furry
+garbage man
+geologist
+hacker
+hairdresser
+hippie
+hipster
+hobo
+homeless person
+jeweler
+journalist
+judge
+juggler
+lawyer
+lecturer
+lexicographer
+library assistant
+maid
+magician
+makeup artist
+manager
+miner
+mom
+musician
+nurse
+optician
+painter
+personal assistant
+photographer
+pianist
+pilot
+plumber
+police officer
+politician
+porter
+printer
+prison officer / warder
+professional gambler
+prostitute
+puppeteer
+rastafarian
+receptionist
+robot
+sailor
+salesperson
+scientist
+secretary
+shop assistant
+sign language Interpreter
+singer
+soldier
+solicitor
+stripper
+studio executive
+surgeon
+tailor
+teacher
+telephone operator
+telephonist
+translator
+travel agent
+trucker
+TV cameraman
+TV presenter
+vet
+waiter
+web designer
+writer
+zooligist
+dog
+cat
+hedgehog
+pet
+noder
+noder
+hacker
+hackathon hacker
+fuccboi
